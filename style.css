@@ -1,0 +1,26 @@
+.ota{
+    display:flex;
+    justify-content: space-around;
+    font-size: 32px;
+}
+header{
+    text-align: center;
+}
+.v{
+    background-color: rgb(156, 13, 13);
+    margin-left: 200px;
+    width: 350px;
+    height: 350px;
+    flex-direction: column;
+}  
+.b{
+    
+    color: aliceblue;
+    display: flex;
+    justify-content:center;
+
+}  
+.main{
+    display: flex;
+    justify-items: center;
+}
